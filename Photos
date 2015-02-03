@@ -1,0 +1,11 @@
+Display a list of all the photos listed under our platform. 
+Each photo has its associated attributes
+      - Artists Name
+      - Artists Contact Details
+      - Share options on various social media. 
+      - Reviews about the photo. 
+      - Ask questions to the artist 
+A vertical tab to filter this section based on various attributes. 
+      - Bed
+      - Bath
+      - Kitchen etc. 
