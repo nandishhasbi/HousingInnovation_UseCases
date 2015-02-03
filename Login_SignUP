@@ -1,0 +1,20 @@
+LOGIN BUTTON 
+- Once you click login button (username, password, email id), you will be asked to sign-on if you dont have an account already.
+- Fields to login 
+  - UserName
+  - Password
+  - Email Id
+  
+=================================================================================
+SIGNUP 
+- Sign in with facebook. 
+- Sign up with Email. 
+- Manual Sign up ((username, password, email id))
+[
+* Customers will be able to register in the first phase.
+* Professionals will be signed up Manually. 
+]
+[
+Roles: Professional or Customer 
+WILL BE IMPLEMENTED AT THE LATER PART OF THE PROJECT.
+]
